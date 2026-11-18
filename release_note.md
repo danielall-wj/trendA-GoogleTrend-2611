@@ -1,4 +1,8 @@
-# trend-collectorA-2611 릴리스 노트
+# trendA-GoogleTrend-2611 릴리스 노트
+
+## 2026-11-18 · 저장소 이름 변경
+
+- 저장소 이름을 `trend-collectorA-2611`에서 `trendA-GoogleTrend-2611`로 바꿨습니다.
 
 ## 2026-11-18 · 설정 조정
 
